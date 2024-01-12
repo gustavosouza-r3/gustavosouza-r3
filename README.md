@@ -1,4 +1,4 @@
-<code>### Olá, sou o Guylherme Lima👋</code>
+<code>### Olá, sou o Gustavo</code>
 
 
 - 🔭 Atualmente trabalhando como CS numa empresa de Software jurídico
