@@ -1,4 +1,5 @@
-### Hi there 👋
+<code>### Olá, sou o Guylherme Lima👋</code>
+
 
 - 🔭 Atualmente trabalhando como CS numa empresa de Software jurídico
 - 📚 Estudando ADS, e em paralelo Python e JS
