@@ -12,5 +12,5 @@
 
 
 ### Acesse minhas redes sociais!
-[![blog](https://www.linkedin.com/in/gustavo-souza-moreira-dev/)
-[![blog](https://www.instagram.com/gustavosouzam_/)
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-souza-moreira-dev/)
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavosouzam_/)
