@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando como CS numa empresa de Software jurídico
 - 📚 Estudando ADS, e em paralelo Python e JS
-- 🔍 Buscando munha vaga de estágio
+- 🔍 Buscando minha vaga de estágio
 
 
 ![blog](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
